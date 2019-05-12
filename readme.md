@@ -10,5 +10,5 @@ Written with using following technologies:
 
 ## Demo
 
-![demo](./preview.gif)
+<img src="./preview.gif" width="300">
 
